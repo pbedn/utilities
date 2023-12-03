@@ -1,0 +1,4 @@
+# rename_amp_reports
+pyquery >= 2.0.0
+pyinstaller >= 6.2.0
+
